@@ -39,8 +39,7 @@ http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视",CHC动作电影
-http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -193,9 +192,6 @@ http://39.134.65.177/PLTV/88888888/224/3221225872/1.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视HD
 http://39.135.140.227:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
 
-
-
-
 #EXTINF:-1 tvg-id="1872" tvg-name="" tvg-logo="" group-title="其他",北京冬奥纪实HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",北京IPTV4K超清
@@ -214,14 +210,17 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他",CHC高清电影v1
 http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他",CHC高清电影v2
 http://iptv.tvfix.org/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="其他",CHC家庭影院
 http://iptv.tvfix.org/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="其他",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视",CHC动作电影v1
+http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="其他",CHC动作电影v2
 http://iptv.tvfix.org/hls/chcatv.m3u8
+
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="其他",金鹰卡通
 http://iptv.tvfix.org/hls/jykttv.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="其他",优漫卡通
