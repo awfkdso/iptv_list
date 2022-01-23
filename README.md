@@ -1,1 +1,1 @@
-# iptv_list
+# 自己手动整理的IPTV清单
