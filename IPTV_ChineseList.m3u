@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pm/epg.xml"
 
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 上海新闻综合
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/2300000/mnf.m3u8
@@ -30,9 +30,9 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海", 上海纪实v5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png", 五星体育v2
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/2300000/mnf.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png", 上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -42,12 +42,16 @@ http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png", 哈哈炫动
 http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:0 , 上海教育HD
+#EXTINF:-1 tvg-id="" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg" group-title="上海",上海教育
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+#EXTINF:-1 tvg-id="" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg" group-title="上海",上海教育
+https://epg.pm/stream/54d39377bb4aaf82d6d6c2e55d243bbdbef54e57902685a14d78c8a915618c9a.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg", 劲爆体育HD
 http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
-#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png", 幸福彩
+#EXTINF:-1 tvg-id="3065" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510164929371525_71.jpg"  group-title="上海" , 幸福彩HD
 http://140.207.241.3:8080/live/program/live/xfc/1300000/d1.m3u8
+#EXTINF:-1 tvg-id="3065" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510164929371525_71.jpg" group-title="上海" , 幸福彩HD
+https://epg.pm/stream/d9d97e158777641b9737a574b2e5015c9ed6173a273a8908527bccd72ed1f1fc.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png", 新视觉HD
 http://140.207.241.3:8080/live/program/live/xsjhd/4000000/d1.m3u8
 #EXTINF:-1 group-title="上海", 金色学堂
@@ -150,12 +154,12 @@ http://117.148.179.172/PLTV/88888888/224/3221231663/index.m3u8
 https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/13/large/20220513145911554540_68.jpg" group-title="北京",北京新闻HD
+#EXTINF:-1 tvg-id="" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/13/large/20220513145911554540_68.jpg" group-title="北京",北京新闻
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+#EXTINF:-1 tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/13/large/20220513145810902661_38.jpg" group-title="北京", 北京文艺
+https://epg.pm/stream/b8eea9bdafb99fc9d8cd98fea132cc5687531903c287dc130de754b6d1f94783.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827033715326801_58.png" group-title="北京",北京IPTV4K
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND 
-#EXTINF:-1 tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/13/large/20220513145810902661_38.jpg" group-title="北京", [BD]北京文艺
-https://epg.pm/stream/b8eea9bdafb99fc9d8cd98fea132cc5687531903c287dc130de754b6d1f94783.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827034248695253_29.png" group-title="北京",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827034248695253_29.png" group-title="北京", 北京IPTV淘电影
@@ -175,47 +179,47 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 group-title="北京", 清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png", CCTV1
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png", CCTV1综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png", CCTV2
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png", CCTV2财经
 http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png", CCTV3
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png", CCTV3综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png", CCTV4
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png", CCTV4中文国际
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png", CCTV5
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png", CCTV5体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png", CCTV5+
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png", CCTV5+体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png", CCTV6
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png", CCTV6电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png", CCTV7
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png", CCTV7国防军事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png", CCTV8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png", CCTV8电视剧
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png", CCTV9
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png", CCTV9纪录
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png", CCTV10
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png", CCTV10科教
 http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png", CCTV11
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png", CCTV11戏曲
 http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png", CCTV12
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png", CCTV12社会与法制
 http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png", CCTV13
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png", CCTV13新闻
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png", CCTV14
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png", CCTV14少儿
 http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png", CCTV15
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png", CCTV15音乐
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png", CCTV17
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png", CCTV17农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 group-title="央视", CCTV4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 ,CCTV4K UHD HDR
+#EXTINF:-1 group-title="央视", CCTV4K 超高清
 http://ye23.win/iptv/4k.cctv.php
-#EXTINF:0 , CCTV4K HDR
+#EXTINF:-1 group-title="央视", CCTV4K 超高清
 https://p.ggiptv.com/v/4k.m3u8
-#EXTINF:-1 group-title="其他", 纯享4K
+#EXTINF:-1 group-title="央视", 纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title=""央视",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -398,23 +402,23 @@ http://livetv.dnsfor.me:80/channel.5.m3u8
 http://livetv.dnsfor.me:80/channel.6.m3u8
 
 #EXTINF:-1 tvg-id="3018" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/08/10/large/20160810160519385984_21.png" group-title="港台",台視新聞
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-#EXTINF:-1 tvg-id="3018" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/08/10/large/20160810160519385984_21.png" group-title="港台",台視新聞
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id="4577" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/16/large/20151116211209646080_94.jpg" group-title="港台", 台視新聞
 https://epg.pm/stream/65359096614195a46e5b795083c53a30763f4a74de54d47a987ffabdf612d8a3.m3u8
 #EXTINF:-1 tvg-id="2867" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164652498020_91.png" group-title="港台",民視新聞
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-#EXTINF:-1 tvg-id="2867" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164652498020_91.png" group-title="港台",民視新聞
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="2867" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164652498020_91.png" group-title="港台",民視新聞
 https://epg.pm/stream/8bd1d4b3e4e76f0220f6e66afc2e638c765265fb08cf2cc9e2211872d4459533.m3u8
-#EXTINF:-1 group-title="港台" , 三立新聞
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 #EXTINF:-1 tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210223320034060_16.png" group-title="港台", 三立LIVE
 https://epg.pm/stream/9a8ffe4ba8b50a8e8884f2b09af132180b5d024cc0767b31affc44deef55a911.m3u8
+#EXTINF:-1 tvg-id="7419" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222173902072320_95.jpg" group-title="港台",三立综合
+https://epg.pm/stream/21c571991bad0b1ad05bb37a96e825cd03a43dfc4718ed07c23889868b86aa97.php
+#EXTINF:-1 tvg-id="7419" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222173902072320_95.jpg" group-title="港台",三立綜合
+https://epg.pm/stream/4e74a8c5bfab297f72bb15c982129af3023ee6be8014d5565303f5c6cd956ae7.m3u8
 #EXTINF:-1 tvg-id="4519" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="港台",中天新聞
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+https://epg.pm/stream/d9c577f06b10caeb4a8d18cea2fe987f785ffcbde7e9da0a62ab95fa0aadba54.php
+#EXTINF:-1 tvg-id="4519" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="港台",中天新闻
+https://epg.pm/stream/68ba78adbb28efc7d4aba7234d1c380b9ee45b7a0aed01da42aafac16697d54d.php
 #EXTINF:-1 tvg-id="4514" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114200203567686_26.jpg" group-title="港台",TVBS新聞
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 #EXTINF:-1 tvg-id="4514" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114200203567686_26.jpg" group-title="港台",TVBS新闻
@@ -481,8 +485,6 @@ http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-id="7492" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/23/large/20190123004016372085_70.jpg" group-title="港台",龍華電影
 https://epg.pm/stream/3d6d9fbda79f49834ebfbbde234dd55c2185bb058aee753ba39eedea234bd036.m3u8
-#EXTINF:-1 tvg-id="2862" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/24/large/20220224130152459196_93.jpg" group-title="港台",龍華經典
-https://epg.pm/stream/0e0abe6ee377307e792699efa27f55ff6f3dac6365fdd3a5f8d06199258e87a3.m3u8
 #EXTINF:-1 group-title="港台", [HD]緯來日本
 rtmp://59.124.75.138/sat/tv771
 #EXTINF:-1 group-title="港台", [HD]緯來日本v1
@@ -493,13 +495,17 @@ rtmp://59.124.75.150:1935/sat/tv771
 rtmp://59.124.75.150/sat//tv761
 #EXTINF:-1 group-title="港台", [HD]緯來日本v4
 rtmp://59.124.75.150/sat/tv771
-#EXTINF:-1 tvg-id="3021" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/img/logo/1_164.jpg" group-title="港台",[HD]人間衛視
-https://epg.pm/stream/f8d7835a386cff24afdf357faf5cd8c5f974ca3d797ff20b66c7be300c80027c.php
-#EXTINF:-1 tvg-id="3021" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/img/logo/1_164.jpg" group-title="港台",[HD]人間衛視
+#EXTINF:-1 tvg-id="4560" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114210017959015_13.jpg" group-title="港台",緯來育樂
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 tvg-id="4560" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114210017959015_13.jpg" group-title="港台",緯來育樂
+rtmp://59.124.75.138:1935/sat/tv701
+#EXTINF:-1 tvg-id="4560" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114210017959015_13.jpg" group-title="港台",緯來育樂
+https://epg.pm/stream/ba0eb100f8dc80bf150af51c3e27a2ef70c883e4eb7efe82f51b71d47f45f9fd.m3u8
+#EXTINF:-1 tvg-id="3021" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/img/logo/1_164.jpg" group-title="港台",人間衛視
 https://epg.pm/stream/78bb2b6a1f8ace6c1922e5bbc31daef8c7a117f3a6a8b36a5dbb51f9f145a76a.m3u8
-#EXTINF:-1 tvg-id="3021" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/img/logo/1_164.jpg" group-title="港台",[HD]人间卫视
+#EXTINF:-1 tvg-id="3021" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/img/logo/1_164.jpg" group-title="港台",人間衛視
 https://epg.pm/stream/b5b0a5eeafebbfdc1b02e9f41a9200947ade297a5093f5e366652561c176f4e8.m3u8
-#EXTINF:-1 tvg-id="3021" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/img/logo/1_164.jpg" group-title="港台",[HD]人间卫视
+#EXTINF:-1 tvg-id="3021" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/img/logo/1_164.jpg" group-title="港台",人間衛視
 https://epg.pm/stream/de7a7c25f1678a27d5503a60c048b9572688127ff337df54131062f7adaef5a2.m3u8
 
 #EXTINF:-1 tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/12/12/large/20211212021020010406_48.png" group-title="日本", [HD]フジテレビ (720p Willfon)
@@ -529,12 +535,22 @@ https://epg.pm/stream/275a16d06af88cc115678381cad5e0521e9a671eb6712ab8408177089e
 #EXTINF:-1 tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/12/12/large/20211212021020010406_48.png" group-title="日本", [HD]フジテレビ
 https://epg.pm/stream/f2456607f93a8910cb685af1998d72330cbf32e96edc1ac26e0cabee25dd20e7.m3u8
 
-#EXTINF:-1 group-title="海外", KBS-1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 group-title="海外", KBS-2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1 group-title="海外", KBS-WORLD
-http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",Kix (1080p)
+https://epg.pm/stream/605cd249bff81a5625d0731483a3c16ba8f74a9e10d34030edb1c9833f190233.m3u8
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",KIX
+https://epg.pm/stream/0f206d2481eb58cd37140159b5c05c437bbd5ef478046f7d4b740217735386fb.m3u8
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",KIX HD
+https://epg.pm/stream/7f563e95877911b38755d54ba4ce9ac31252c16c2f368e98d6547af744d32171.m3u8
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",KIX
+https://epg.pm/stream/90927778fb8fbf01c47a648867ade2e578e129a51fbc1288d21c2687f5aa2c6a.m3u8
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",KIX
+https://epg.pm/stream/8b6315bb17f1df0b898bba6d0d6140b8de3a771a665e7389d08779608997d5fd.m3u8
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",KIX
+https://epg.pm/stream/b097753fd2da38efaccc8b5c92ca7b648315bf44d2e05243828603e222cf6d06.m3u8
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",KIX HD
+https://epg.pm/stream/e4a2fd716a50af51c41e15274c67bae22baaeb93d5d78a4cbe2d02ef496f1440.m3u8
+#EXTINF:-1 tvg-id="3399" tvg-country="Singapore" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="新加坡",KIX HD
+https://epg.pm/stream/fc09065d54d03d87995ede69dfc5282ef1409947ab36c4f5fa75db1ef0089f0c.m3u8
 
 #EXTINF:-1 group-title="海外", CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -605,6 +621,23 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 #EXTINF:-1 group-title="海外", TRT World HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO
+https://epg.pm/stream/6cb2a11426ac010f2a437de8809bef60da86820d8438b1509b11b8f0efd3afb5.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[HD]HBO
+https://epg.pm/stream/ed97d587029c82108e0247bda67393bb36da07f0d472111290ddebb1cedc9a0d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[HD]HBO@@4
+https://epg.pm/stream/e28ce1c7e026fea3e70fae9c785d9a5c5321e04f34e1c933c613371308213793.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO HD
+https://epg.pm/stream/4cacb51ca121d1ad1d0fd9f3cc02978e46b6f6c033d14d61db748678c4b01202.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO
+https://epg.pm/stream/198d5734b06c6e92006b7d51d606d3b606a6c300f56601adc7bb7769e9250088.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[HD]HBO HD
+https://epg.pm/stream/1a9f052190fd23c83e8b42beb2ddd6c174d679b974a9dbb34291f596c843e76d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO HD
+https://epg.pm/stream/5c76ddb6586da8e6b0630d0dbe066303b32f9b8347ea86b87d3b4194b05ee940.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO
+https://epg.pm/stream/487c742bca7b86bfa2ae17c880f8f716054a09d705a12c46c51f65c4c8c58f34.m3u8
 
 #EXTINF:-1 group-title="网络", 周星驰影院
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
