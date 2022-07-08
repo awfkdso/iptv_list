@@ -221,35 +221,35 @@ http://ye23.win/iptv/4k.cctv.php
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1 group-title="央视", 纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title=""央视",CCTV-1综合 (1080p)
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title=""央视",CCTV-2财经 (1080p)
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="央视",CCTV-2财经 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title=""央视",CCTV-3综艺 (1080p)
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV-3综艺 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/512px-CCTV-5%2B_Logo.png" group-title=""央视",CCTV-5+体育赛事 (1080p)
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/512px-CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+体育赛事 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title=""央视",CCTV-5体育 (1080p)
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV-5体育 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title=""央视",CCTV-6电影 (1080p)
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6电影 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title=""央视",CCTV-7国防军事 (1080p)
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7国防军事 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title=""央视",CCTV-8电视剧 (1080p)
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8电视剧 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title=""央视",CCTV-9纪录 (1080p)
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="央视",CCTV-9纪录 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title=""央视",CCTV-10科教 (1080p)
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视",CCTV-10科教 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title=""央视",CCTV-11戏曲 (1080p)
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视",CCTV-11戏曲 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title=""央视",CCTV-12社会与法制 (1080p)
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="央视",CCTV-12社会与法制 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title=""央视",CCTV-13新闻 (1080p)
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="央视",CCTV-13新闻 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese;Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/512px-CCTV-15_Logo.png" group-title=""央视",CCTV-15音乐 (720p)
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese;Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/512px-CCTV-15_Logo.png" group-title="央视",CCTV-15音乐 (720p)
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/512px-CCTV-17_Logo.png" group-title=""央视",CCTV-17农业农村 (1080p)
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/512px-CCTV-17_Logo.png" group-title="央视",CCTV-17农业农村 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png", 凤凰资讯
@@ -277,9 +277,9 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", 凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", [BD]凤凰香港
+#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", 凤凰香港
 https://epg.pm/stream/5396c947ecc9427bd34337199953e3ea3dd65131fa3e4e6309d3e35b546bb0fa.m3u8
-#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", [BD]凤凰香港
+#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", 凤凰香港
 https://epg.pm/stream/87e4c0e3b906d1d3569c36e10f91f324e033a699ad009f09611aed3d70c1a2f7.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", 凤凰香港
 http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8
@@ -347,7 +347,7 @@ https://epg.pm/stream/26c5cdd5c7498132ecbde206b6ac0c9b970c6712560e8963da5618e338
 https://epg.pm/stream/230c7653ec887eae1dc77c2af8983514dd46ddc2563dfc203952044d90c87757.m3u8
 #EXTINF:-1 group-title="港台" , [BD]功夫
 https://epg.pm/stream/c034988e47189ea4a434b5ac17ae86853a433c603ff9b7d5f63a8d179d8f6174.m3u8
-#EXTINF:-1 tvg-id="2688" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/31/large/20171031204534326166_73.jpg" group-title="News", [HD]无线财经
+#EXTINF:-1 tvg-id="2688" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/31/large/20171031204534326166_73.jpg" group-title="港台", [HD]无线财经
 https://epg.pm/stream/a5ef735749d83771f42687b539d61bddc36b0f5858fb3c8f9dfcf607eb3d3439.m3u8
 #EXTINF:-1 group-title="港台" , 創世電視
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
@@ -622,19 +622,19 @@ https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-
 #EXTINF:-1 group-title="海外", TRT World HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="海外",[BD]HBO
 https://epg.pm/stream/6cb2a11426ac010f2a437de8809bef60da86820d8438b1509b11b8f0efd3afb5.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[HD]HBO
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="海外",[HD]HBO
 https://epg.pm/stream/ed97d587029c82108e0247bda67393bb36da07f0d472111290ddebb1cedc9a0d.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[HD]HBO@@4
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="海外",[HD]HBO@@4
 https://epg.pm/stream/e28ce1c7e026fea3e70fae9c785d9a5c5321e04f34e1c933c613371308213793.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO HD
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="海外",[BD]HBO HD
 https://epg.pm/stream/4cacb51ca121d1ad1d0fd9f3cc02978e46b6f6c033d14d61db748678c4b01202.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="海外",[BD]HBO
 https://epg.pm/stream/198d5734b06c6e92006b7d51d606d3b606a6c300f56601adc7bb7769e9250088.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[HD]HBO HD
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="海外",[HD]HBO HD
 https://epg.pm/stream/1a9f052190fd23c83e8b42beb2ddd6c174d679b974a9dbb34291f596c843e76d.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO HD
+#EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="海外",[BD]HBO HD
 https://epg.pm/stream/5c76ddb6586da8e6b0630d0dbe066303b32f9b8347ea86b87d3b4194b05ee940.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]HBO
 https://epg.pm/stream/487c742bca7b86bfa2ae17c880f8f716054a09d705a12c46c51f65c4c8c58f34.m3u8
