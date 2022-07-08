@@ -363,6 +363,8 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 group-title="港台" , HKC有线新闻台
 https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 group-title="港台" , HKC有线新闻台
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w784366279.m3u8
 #EXTINF:-1 group-title="港台" , TVB J1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="港台" , TVB J1
