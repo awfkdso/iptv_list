@@ -365,6 +365,8 @@ https://epg.pm/stream/a95afa9eccf6002d2ae4f796d45c9a1d522c7de95db668f16cc75b76ad
 https://t11.iptv200.com/live/tvb/index.m3u8?session=oyo8kj0lyrshwmcwtrbn03h61emshevb
 #EXTINF:-1 tvg-id="3218" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="港台", 翡翠台
 https://epg.pm/stream/000b4baaac7f85f5bea64999c56c20f13aca8ddc418864c5e020d475d941e312.m3u8
+#EXTINF:-1 tvg-id="3218" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="港台", 翡翠台
+http://23.237.10.66:16410
 #EXTINF:-1 group-title="港台" , HKC有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="港台" , HKC有线新闻台
