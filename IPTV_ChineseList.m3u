@@ -207,6 +207,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", 凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png", 凤凰香港
+https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png", 三立新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png", 三立新闻
@@ -227,6 +229,12 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png", 三立iNews
 https://git.io/Jgkxj
 
+#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png", 民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png", 民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png", 民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png", 民视新闻
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png", 民视新闻
@@ -255,6 +263,8 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/parliamentarytv2.m3u8
 http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港台", 原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="港台", 原住民
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 group-title="港台", 运通
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 #EXTINF:-1 group-title="港台", 彰化生活
@@ -301,12 +311,14 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="港台" , 凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="2689" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/20/large/20160420220255547955_38.jpg" group-title="港台", [BD]凤凰卫视
+#EXTINF:-1 tvg-id="2689" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/20/large/20160420220255547955_38.jpg" group-title="港台", 凤凰卫视
 https://epg.pm/stream/245db130ce97e7c2d048941a8b9ace848dd782f9fbadc2bddd031d4a7298b6d6.m3u8
 #EXTINF:-1 group-title="港台" , 凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港台" , 凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-id="2686" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/19/large/20171019222634254138_82.jpg" group-title="港台", 无线新闻
+https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="2686" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/19/large/20171019222634254138_82.jpg" group-title="港台", 无线新闻
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="2686" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/19/large/20171019222634254138_82.jpg" group-title="港台", 无线新闻
@@ -357,14 +369,6 @@ https://epg.pm/stream/c034988e47189ea4a434b5ac17ae86853a433c603ff9b7d5f63a8d179d
 https://epg.pm/stream/a5ef735749d83771f42687b539d61bddc36b0f5858fb3c8f9dfcf607eb3d3439.m3u8
 #EXTINF:-1 group-title="港台" , 創世電視
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-#EXTINF:-1 tvg-id="3218" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="港台", [BD]翡翠
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?
-#EXTINF:-1 tvg-id="3218" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="港台", [BD]翡翠
-https://epg.pm/stream/a95afa9eccf6002d2ae4f796d45c9a1d522c7de95db668f16cc75b76adc7a96d.m3u8
-#EXTINF:-1 tvg-id="3218" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="港台", 翡翠台
-https://t11.iptv200.com/live/tvb/index.m3u8?session=oyo8kj0lyrshwmcwtrbn03h61emshevb
-#EXTINF:-1 tvg-id="3218" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="港台", 翡翠台
-https://epg.pm/stream/000b4baaac7f85f5bea64999c56c20f13aca8ddc418864c5e020d475d941e312.m3u8
 #EXTINF:-1 tvg-id="3218" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="港台", 翡翠台
 http://23.237.10.66:16410
 #EXTINF:-1 group-title="港台" , HKC有线财经资讯台
@@ -380,7 +384,13 @@ https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/53240
 #EXTINF:-1 group-title="港台" , TVB J1
 https://epg.pm/stream/0535a817b6ac4c8fbbe032561e6b7c2b87f6503efdde1a76dd5d40caf8aec89d.m3u8
 #EXTINF:-1 tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="港台", [BD]J2
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="港台", [BD]J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="港台", [BD]J2
 https://epg.pm/stream/6d0d0d5bc3810652735b38fbef2a7ae1e105c75ccd24874568a78e0340b4980e.m3u8
+#EXTINF:-1 tvg-id="5539" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/26/large/20220226172153753118_16.jpg" group-title="港台", [BD]RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="5539" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/26/large/20220226172153753118_16.jpg" group-title="港台", [BD]RTHK32
 https://epg.pm/stream/d714fff529b242680ddc756f76c725c19c70fe8cfd82fadab9f72f73115b8142.m3u8
 #EXTINF:-1 tvg-id="5539" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/26/large/20220226172153753118_16.jpg" group-title="港台", [BD]RTHK32v2
@@ -429,6 +439,8 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 https://epg.pm/stream/21c571991bad0b1ad05bb37a96e825cd03a43dfc4718ed07c23889868b86aa97.php
 #EXTINF:-1 tvg-id="7419" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/22/large/20161222173902072320_95.jpg" group-title="港台",三立綜合
 https://epg.pm/stream/4e74a8c5bfab297f72bb15c982129af3023ee6be8014d5565303f5c6cd956ae7.m3u8
+#EXTINF:-1 tvg-id="4519" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="港台",中天新聞
+http://123.51.230.124:8535/.m3u8
 #EXTINF:-1 tvg-id="4519" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="港台",中天新聞
 https://epg.pm/stream/d9c577f06b10caeb4a8d18cea2fe987f785ffcbde7e9da0a62ab95fa0aadba54.php
 #EXTINF:-1 tvg-id="4519" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="港台",中天新闻
