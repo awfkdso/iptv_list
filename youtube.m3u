@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="香港",鳳凰衛視PhoenixTV
+http://192.168.1.1:35455/youtube/dmDg7NfUoSw
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",TVBS新闻
+http://192.168.1.1:35455/youtube/2mCSYvcfhtc
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",TVBS国际
+http://192.168.1.1:35455/youtube/n1ESZBmUJAs
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",三立新闻
+http://192.168.1.1:35455/youtube/jlldIiGA5bU
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",東森新聞
+http://192.168.1.1:35455/youtube/R2iMq5LKXco
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",東森財經
+http://192.168.1.1:35455/youtube/WHEPzbFA3hw
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",中視新聞
+http://192.168.1.1:35455/youtube/TCnaIE_SAtM
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",寰宇新聞
+http://192.168.1.1:35455/youtube/B7Zp3d6xXWw
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",台視新聞
+http://192.168.1.1:35455/youtube/xL0ch83RAK8
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="日本",ANN News
+http://192.168.1.1:35455/youtube/FxXa0iHBRIk
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="日本",MBS新闻
+http://192.168.1.1:35455/youtube/0w7JEX3_X2U
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="日本",日テレ1
+http://192.168.1.1:35455/youtube/rBW5_UyW9Ns
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="日本",日テレ2
+http://192.168.1.1:35455/youtube/8EFGOOlLGYc
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="日本",TBS NEWS DIG
+http://192.168.1.1:35455/youtube/aiEO1IXkk6Y
